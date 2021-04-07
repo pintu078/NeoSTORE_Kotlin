@@ -10,7 +10,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0acf1d4d-20db-4de1-970b-4c9bd1f1487a" name="Default Changelist" comment="" />
+    <list default="true" id="0acf1d4d-20db-4de1-970b-4c9bd1f1487a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pintu/neostore_kotlin/viewmodel/ForgotVM.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pintu/neostore_kotlin/viewmodel/ForgotVM.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

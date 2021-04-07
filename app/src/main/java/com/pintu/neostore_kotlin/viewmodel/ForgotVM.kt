@@ -23,7 +23,7 @@ class ForgotVM(application: Application) : AndroidViewModel(application) {
     fun getForgotListObserver(): MutableLiveData<APIMsg> {
         return forgotList
     }
-
+ //call API
     fun makeForgotApiCall(email:String){
         val retroInstance = RetroInstance.getRetroInstance().create(RetroService::class.java)
         val call = retroInstance.forgotPost(email)
