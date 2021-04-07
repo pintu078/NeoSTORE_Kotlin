@@ -13,6 +13,7 @@ import androidx.lifecycle.ViewModelProviders
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.pintu.neostore_kotlin.R
 import com.pintu.neostore_kotlin.model.APIMsg
+import com.pintu.neostore_kotlin.view.home.home
 import com.pintu.neostore_kotlin.view.register.Register
 import com.pintu.neostore_kotlin.viewmodel.LoginVM
 import com.pintu.neostore_kotlin.viewmodel.LoginVMFactory
@@ -45,6 +46,9 @@ class Login : AppCompatActivity() {
             if (it != null) {
 
                 Log.d("saurabh", "${it.user_msg}")
+                val intent = Intent(this, home::class.java)
+                startActivity(intent)
+                finish()
 
             } else {
                 Log.d("saurabh", "FAI-Lurre")

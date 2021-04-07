@@ -7,4 +7,6 @@
     <color name="backgroundRed">#fe3f3f</color>
     <color name="textColor">#FFFFFF</color>
     <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFC107</color>
+    <color name="gray">#6F6666</color>
 </resources>

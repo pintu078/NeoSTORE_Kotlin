@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_myCart"
+            android:icon="@drawable/ic_vector_assesst_shopping_cart"
+            android:title="My Cart" />
+
+        <item
+            android:id="@+id/nav_Table"
+            android:icon="@drawable/ic__905821"
+            android:title="Tables" />
+        <item
+            android:id="@+id/nav_Sofa"
+            android:icon="@drawable/sofa_24"
+            android:title="Sofas" />
+        <item
+            android:id="@+id/nav_chair"
+            android:icon="@drawable/ic_baseline_chair"
+            android:title="Chairs" />
+        <item
+            android:id="@+id/nav_cupboard"
+            android:icon="@drawable/cupboard"
+            android:title="Cupboards" />
+        <item
+            android:id="@+id/nav_myAccount"
+            android:icon="@drawable/ic_vector_assest_person"
+            android:title="My Account" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_vector_assest_location_on"
+            android:title="Store Locator" />
+        <item
+            android:id="@+id/nav_myOrders"
+            android:icon="@drawable/myorder"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+
+</menu>
