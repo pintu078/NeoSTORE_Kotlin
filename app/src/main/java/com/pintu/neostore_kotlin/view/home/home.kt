@@ -95,7 +95,7 @@ class home : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListene
         val adapter = ViewPagerAdapter(this)
         viewpager.adapter = adapter
         indicator.setupWithViewPager(mViewPager, true)
-        
+
     }
 
     override fun onBackPressed() {

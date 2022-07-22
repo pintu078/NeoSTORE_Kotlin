@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NeoSTORE_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/NeoSTORE_Kotlin.iml" group="NeoSTORE_Kotlin" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="NeoSTORE_Kotlin/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NeoSTORE_Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/NeoSTORE_Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NeoSTORE_Kotlin.app.unitTest.iml" />
     </modules>
   </component>
 </project>
